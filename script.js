@@ -2,7 +2,7 @@
    Any value starting with "PLACEHOLDER" shows as "link not added" on the site.
    Replace it with the real link when you have it. */
 const CONFIG = {
-  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Christ+Apostolic+Church+International+Kwasheiman+Central+Ghana",
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=5.600188,-0.264484", // plus code JP2P+36C, Kwashieman
   receptionMapUrl: "https://www.google.com/maps/search/?api=1&query=5.5597354,-0.2954547",
   rsvpUrl: "https://docs.google.com/forms/d/e/1FAIpQLSdOwFBxK3J8CEqlDv4UHORa1QZUyW-gLuFAevpFF8nmzAVqKA/viewform?usp=publish-editor",
   orderUrl: "documents/order-of-service.pdf", // replace the PDF in the documents folder
